@@ -1,0 +1,15 @@
+D:\.vscode\Estudos\Cs-Codes\Aula02\bin\Debug\net8.0\Aula02.exe
+D:\.vscode\Estudos\Cs-Codes\Aula02\bin\Debug\net8.0\Aula02.deps.json
+D:\.vscode\Estudos\Cs-Codes\Aula02\bin\Debug\net8.0\Aula02.runtimeconfig.json
+D:\.vscode\Estudos\Cs-Codes\Aula02\bin\Debug\net8.0\Aula02.dll
+D:\.vscode\Estudos\Cs-Codes\Aula02\bin\Debug\net8.0\Aula02.pdb
+D:\.vscode\Estudos\Cs-Codes\Aula02\obj\Debug\net8.0\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+D:\.vscode\Estudos\Cs-Codes\Aula02\obj\Debug\net8.0\Aula02.AssemblyInfoInputs.cache
+D:\.vscode\Estudos\Cs-Codes\Aula02\obj\Debug\net8.0\Aula02.AssemblyInfo.cs
+D:\.vscode\Estudos\Cs-Codes\Aula02\obj\Debug\net8.0\Aula02.csproj.CoreCompileInputs.cache
+D:\.vscode\Estudos\Cs-Codes\Aula02\obj\Debug\net8.0\Aula02.sourcelink.json
+D:\.vscode\Estudos\Cs-Codes\Aula02\obj\Debug\net8.0\Aula02.dll
+D:\.vscode\Estudos\Cs-Codes\Aula02\obj\Debug\net8.0\refint\Aula02.dll
+D:\.vscode\Estudos\Cs-Codes\Aula02\obj\Debug\net8.0\Aula02.pdb
+D:\.vscode\Estudos\Cs-Codes\Aula02\obj\Debug\net8.0\Aula02.genruntimeconfig.cache
+D:\.vscode\Estudos\Cs-Codes\Aula02\obj\Debug\net8.0\ref\Aula02.dll

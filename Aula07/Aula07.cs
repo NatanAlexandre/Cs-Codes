@@ -5,6 +5,6 @@ class Program {
         const string canal = "CFB Cursos";
         const double pi = 3.14;
 
-        Console.WriteLine("Canal: {0}", canal);
+        Console.WriteLine("Canal: {0}\nPi:{1}", canal, pi);
     }
 }

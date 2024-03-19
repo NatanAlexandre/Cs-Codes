@@ -7,5 +7,7 @@ class Main {
         float valor = 5.3f;
         byte n1 = 10 // 0 e 255
         string nome = "Natan";
+
+        var aux = 10; // Var não recebe tipo da variável
     }
 }

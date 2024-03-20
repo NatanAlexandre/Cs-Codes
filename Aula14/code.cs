@@ -2,6 +2,8 @@ using System;
 
 class Program {
     static void Main(string[] args){
+        // Switch
+        
         int tempo;
         char escolha;
         Console.WriteLine("Belo Horizonte/MG a VItória/ES");
@@ -10,12 +12,15 @@ class Program {
 
         switch(escolha){
             case 'a':
+            case 'A':
                 tempo = 50;
                 break;
             case 'c':
+            case 'C':
                 tempo = 480;
                 break;
             case 'o':
+            case 'O':
                 tempo = 660;
                 break;
             default:
